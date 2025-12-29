@@ -38,6 +38,9 @@ export default function Dashboard() {
   <p>
   <a href="/vet/profile">Edit Vet Profile</a>
 </p>
+<p>
+  <a href="/company/profile">Edit Company Profile</a>
+</p>
 
       <p>Si ves tu info aquí, ya quedó autenticación end-to-end ✅</p>
 
