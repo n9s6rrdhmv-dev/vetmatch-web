@@ -41,6 +41,9 @@ export default function Dashboard() {
 <p>
   <a href="/company/profile">Edit Company Profile</a>
 </p>
+  <p><a href="/company/opportunities">Company Opportunities</a></p>
+<p><a href="/opportunities">Browse Opportunities</a></p>
+
 
       <p>Si ves tu info aquí, ya quedó autenticación end-to-end ✅</p>
 
