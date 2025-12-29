@@ -35,6 +35,10 @@ export default function Dashboard() {
   return (
     <main style={{ padding: 24, fontFamily: "system-ui", maxWidth: 720 }}>
       <h1>Dashboard</h1>
+  <p>
+  <a href="/vet/profile">Edit Vet Profile</a>
+</p>
+
       <p>Si ves tu info aquí, ya quedó autenticación end-to-end ✅</p>
 
       <button onClick={logout} style={{ padding: 10, marginTop: 12 }}>
